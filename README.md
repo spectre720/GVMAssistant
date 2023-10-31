@@ -14,3 +14,12 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+GVMAssistant is a mobile application for reporting
+Gender based violence events. Which is loaded with
+The following features
+Sophisticated reporting mechanism.
+Automated victim location tracking through GPS.
+Direct call through the app.
+One click emergency help request (SOS).
+![image](https://github.com/spectre720/GVMAssistant/assets/106701017/169d5265-300c-4c0b-89b4-3140334d4850)
